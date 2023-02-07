@@ -1,0 +1,108 @@
+1,Pen,150.0
+2,Book,550.0
+3,Note Book,250.0
+4,Pencil,120.0
+5,Eraser,180.0
+6,Sharpener,300.0
+7,Atlas,700.0
+8,Diary,990.0
+101,Baby food,3632.4
+102,Dry Goods,4132.53
+103,Flowers,1925.59
+104,Cosmetics,1614.38
+105,Dry Goods,2605.22
+106,Bottled waters,929.25
+107,House-cleaning products,3083.73
+108,Grooming products,4573.94
+109,Cosmetics,2922.34
+110,Detergents,3894.97
+111,Snack foods,1119.07
+112,Ground turkey,1924.5
+113,Decorations,3643.77
+114,Fish,754.89
+115,Sauces,777.09
+116,White rice,3540.58
+117,Dishware,545.06
+118,Ground turkey,699.98
+119,Dairy,1379.68
+120,Tea,2506.29
+121,Tea,4207.17
+122,Poultry,4268.2
+123,Housewares,1723.79
+124,Housewares,1572.87
+125,Diet foods,2970.33
+126,Fish,2919.92
+127,Condiments,1415.55
+128,Sauces,1612.9
+129,Chicken,3173.56
+130,Dairy,1365.34
+131,Coffee,3454.23
+132,Fruits,4783.82
+133,Flowers,2296.95
+134,Detergents,2101.15
+135,Nonalcoholic beverages,3177.57
+136,Personal hygiene,875.91
+137,Dishware,4072.17
+138,Condiments,3107.69
+139,Meat,3789.99
+140,Brown rice,1450.21
+141,Salmon,1641.65
+142,Pasta,1985.82
+143,Pet foods,202.33
+144,Housewares,2371.28
+145,Baby-care,4275.21
+146,Bottled waters,3854.5
+147,Baby-care,2928.27
+148,Dishware,2630.19
+149,Dishware,3922.43
+150,Cosmetics,4523.02
+151,Frozen foods,3675.58
+152,Dry Goods,3958.69
+153,Pet foods,1352.86
+154,Medicines,3458.01
+155,Sweets,4371.25
+156,Mustard,2116.02
+157,Sweets,3479.49
+158,Grooming products,1562.22
+159,House-cleaning products,921.53
+160,Olive oil,3902.5
+161,Coffee,2473.94
+162,Paper Goods,3542.58
+163,Baby-care,3744.16
+164,Paper Goods,1265.93
+165,Candies,3107.89
+166,Fish,3916.75
+167,Cereals,4956.66
+168,Detergents,4758.49
+169,Pasta,1505.89
+170,Pet foods,4301.31
+171,Tea,3775.13
+172,Poultry,2978.22
+173,Eggs,4754.35
+174,Personal Care,4557.67
+175,Condiments,3831.13
+176,Grooming products,3463.58
+177,Meat,705.26
+178,Brown rice,1555.1
+179,Fish,3870.48
+180,Paper Goods,2318.04
+181,Baby-care,421.66
+182,Bakery products,4582.16
+183,Flour,3906.89
+184,Bread,3240.08
+185,Baby food,1618.04
+186,Fruits,4313.25
+187,House-cleaning products,2532.27
+188,Dishware,656.47
+189,Bread,3478.89
+190,Cereals,1934.22
+191,Ground turkey,4026.74
+192,Tomato sauce,2003.13
+193,Housewares,395.38
+194,Tomato sauce,247.12
+195,Sweets,3602.36
+196,Paper Goods,329.03
+197,Fish,3084.99
+198,Condiments,610.39
+199,White rice,3552.05
+200,Mustard,3409.54
