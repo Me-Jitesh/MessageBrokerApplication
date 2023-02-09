@@ -1,4 +1,4 @@
-> > > ### **MINI PROJECT ON ActiveMQ**
+> > ### **MINI PROJECT ON ActiveMQ**
 
 > #### Point-To-Point Communication
 
@@ -8,3 +8,8 @@
 - Jackson Library
 - Command Line Runner
 - Scheduler
+
+> #### Pub-Sub Communication
+
+- ActiveMQ Topic
+- Fake Cricket Score Generate
