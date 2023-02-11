@@ -20,6 +20,15 @@ public class SubscriberService {
         System.out.println("********** Live Cricket Score ************" + "\n"
                 + "Score ID : " + scoreCard.getId() + "\n"
                 + "Run/Wicket : " + scoreCard.getRuns() + "/" + scoreCard.getWickets() + "\n"
-                + "Over : " + scoreCard.getOvers() + "." + scoreCard.getBalls() + "\n");
+                + "Over : " + scoreCard.getOvers() + "." + scoreCard.getBalls() + "\n"
+        );
+
+        if (scoreCard.getWickets() == 10) {
+            System.err.println("Innings Over With Score : "
+                    + scoreCard.getRuns() + "/" + scoreCard.getWickets()
+                    + " Overs : " + scoreCard.getOvers() + "." + scoreCard.getBalls()
+            );
+        }
     }
+
 }

@@ -6,6 +6,7 @@ import com.pubsub.publisher.utils.ScoreBoardUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -16,6 +17,8 @@ public class DriverCode implements CommandLineRunner {
     @Autowired
     private PublisherService service;
     private ScoreCard scoreCard;
+    @Autowired
+    private ThreadPoolTaskScheduler scheduler;
 
     @Override
     public void run(String... args) {
@@ -33,6 +36,14 @@ public class DriverCode implements CommandLineRunner {
             System.out.println("Score Published ID : " + scoreCard.getId());
         } else {
             System.out.println("Score Published ID : " + scoreCard.getId());
+        }
+
+        if (scoreCard.getWickets() == 10) {
+            System.err.println("Inning Over With Score : "
+                    + scoreCard.getRuns() + "/" + scoreCard.getWickets()
+                    + " Overs : " + scoreCard.getOvers() + "." + scoreCard.getBalls()
+            );
+            scheduler.shutdown();
         }
     }
 }
